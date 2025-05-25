@@ -1,10 +1,4 @@
-# Foundry Fund Me
 
-```
-git clone https://github.com/Cyfrin/foundry-fund-me-cu
-cd foundry-fund-me-cu
-make
-```
 
 ## Deploy
 
