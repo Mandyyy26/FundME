@@ -1,4 +1,13 @@
+# FundME
 
+**FundME** is a decentralized crowdfunding platform built on Ethereum. It allows anyone to launch fundraising campaigns and accept trustless, transparent contributions using smart contracts.
+
+## 🚀 Features
+
+- **Decentralized Campaigns** – Launch and manage campaigns without intermediaries
+- **Secure Contributions** – Users contribute ETH directly to smart contracts
+- **Transparent Withdrawals** – Withdrawals are allowed only under predefined rules
+- **Comprehensive Testing** – Unit, integration, and forked testing using Foundry
 
 ## Deploy
 
